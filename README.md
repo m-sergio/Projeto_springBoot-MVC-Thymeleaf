@@ -1,2 +1,2 @@
 # Projeto_springBoot-MVC-Thymeleaf
- Sistema de Gestao Desenvolvido em  Web com Spring-Boot, MVC, JPA, Thymeleaf
+ Sistema de Gestao Desenvolvido em  Web com Spring-Boot, MVC, JPA, Thymeleaf. Este sistema permite efectuar cadastro de funcionarios, departamentos, cargos, assim como a listar os dados cadastrado e entre outras funcionalidades...
